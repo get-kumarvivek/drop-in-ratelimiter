@@ -20,3 +20,5 @@ Browser or command line: curl -i [http://127.0.0.1:8000/](http://127.0.0.1:8000/
 
 # Check  :
 After 5 requests within a minute, you will receive an HTTP 429 Too Many Requests response with the Retry-After header telling you how many seconds to wait.
+
+![alt text](image.png)
